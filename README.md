@@ -14,8 +14,9 @@
 ### Growing Amateur on:
 - HTML
 - CSS
-- С and C++
+- C and C++
 - GLSL Shaders
+- OpenGL Render Library
 
 ### Have a practice with:
 - Pascal
