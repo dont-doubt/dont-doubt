@@ -1,16 +1,35 @@
-### Hi there 👋
+# Hi there 👋 - happy to see you on my page!
+  
+### 🥺 I’m looking for **help** with **website designs** - if you're matched with this, DM me in **socials**. I would appreciate any help you'll provide for the website.
+<br>
 
-<!--
-**dont-doubt/dont-doubt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔨 Coding Portfolio (Programming Languages and Frameworks)
+### Developing by:
+- Java (Full Stack)
+- Kotlin *(Full Stack, maybe?)*
+- JavaScript
+- JavaFX
+- 🐗 So wild that Creating his own Scripting Language
 
-Here are some ideas to get you started:
+### Growing Amateur on:
+- HTML
+- CSS
+- С and C++
+- GLSL Shaders
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Have a practice with:
+- Pascal
+- Gradle
+- Ant
+- IntelliJ IDEA Plugin SDK
+- Grammar-Kit (JFlex)
+- Python
+
+
+## 🤴 Socials:
+- \*\*\*\* (soon)
+- \*\*\*\* (soon)
+
+## 🗣 Speaking on:
+- Russian
+- English (rapidly learning pronouns and grammars)
