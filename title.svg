@@ -1,4 +1,4 @@
-<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 600 130" width="600" height="130" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
@@ -48,7 +48,7 @@
           background-size: 400% 400%;
           animation: gradient 12s cubic-bezier(.1,.5,.34,.91) infinite;
           width: 100%;
-          height: 100px;
+          height: 130px;
           display: flex;
           justify-content: center;
           align-items: center;
@@ -66,15 +66,28 @@
           padding: 0;
           margin: 0;
         }
+        .title-text {
+          padding-top: 20px;
+        }
         .lower-text {
           font-weight: 400;
           top: -40px;
         }
+        .tag {
+          color: #dddb;
+          font-weight: 200;
+          font-size: 1.3em;
+          position: absolute;
+          top: 30px;
+          padding-left: 210px;
+          width: 100%;
+        }
       </style>
 
       <div class="container">
-        <h1> <div class="hi"> 👋 Hi there ! </div> </h1>
+        <h1 class="title-text"> <div class="hi"> 👋 Hi there ! </div> </h1>
         <h1 class="lower-text">happy to see you on my page 👹 </h1>
+        <h1 class="tag">@dont-doubt </h1>
       </div>
     </div>
   </foreignObject>
