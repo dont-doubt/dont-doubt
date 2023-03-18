@@ -14,54 +14,67 @@
         }
         @keyframes gradient {
           0% {
-            background-position: 0% 50%;
+            background-position: 0% 0%;
           }
-          50% {
-            background-position: 100% 50%;
+          42% {
+            background-position: 100% 100%;
           }
           100% {
-            background-position: 0% 50%;
+            background-position: -6200% 50%;
           }
         }
         .container {
-          --color-main: #ef476f;
+          --color-main: #fd791b;
           --color-primary: #ffd166;
           --color-secondary: #06d6a0;
-          --color-tertiary: #118ab2;
+          --color-triary: #fd791b;
+        }
+        @media (prefers-color-scheme: light) {
+          .container {
+            --color-main: #fd791b;
+            --color-primary: #b32761;
+            --color-secondary: #fd791b;
+            --color-triary: #def0ff;
+          }
+        }
+        .container {
           background: linear-gradient(
             -45deg,
             var(--color-main),
             var(--color-primary),
             var(--color-secondary),
-            var(--color-tertiary)
+            var(--color-triary)
           );
           background-size: 400% 400%;
-          animation: gradient 5s ease-in-out infinite;
+          animation: gradient 12s cubic-bezier(.1,.5,.34,.91) infinite;
           width: 100%;
-          height: 300px;
+          height: 100px;
           display: flex;
           justify-content: center;
           align-items: center;
           color: white;
           font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+          text-align: center;
+          display: block;
         }
         .hi {
           animation: hi 1.5s linear -0.5s infinite;
           display: inline-block;
           transform-origin: 70% 70%;
         }
-        @media (prefers-color-scheme: light) {
-          .container {
-            --color-main: #ffc8dd;
-            --color-primary: #ffafcc;
-            --color-secondary: #bde0fe;
-            --color-tertiary: #a2d2ff;
-          }
+        h1 {
+          padding: 0;
+          margin: 0;
+        }
+        .lower-text {
+          font-weight: 400;
+          top: -40px;
         }
       </style>
 
       <div class="container">
-        <h1>Hi there <div class="hi">👋</div> - happy to see you on my page! </h1>
+        <h1> <div class="hi"> 👋 Hi there ! </div> </h1>
+        <h1 class="lower-text">happy to see you on my page 👹 </h1>
       </div>
     </div>
   </foreignObject>
