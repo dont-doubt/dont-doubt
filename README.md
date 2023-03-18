@@ -1,3 +1,6 @@
+<div style="width: 100%;">
+  <img src="title.svg" style="width: 100%;">
+</div>
 <!--- # Hi there 👋 - happy to see you on my page! -->
   
 ### 🥺 I’m looking for **help** with **website designs** - if you're matched with this, DM me in **socials**. I would appreciate any help you'll provide for the website.
