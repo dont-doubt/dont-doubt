@@ -31,8 +31,7 @@
 
 
 ## 🤴 Socials:
-- \*\*\*\* (soon)
-- \*\*\*\* (soon)
+- Discord: `! rivta#4046`
 
 ## 🗣 Speaking on:
 - Russian
