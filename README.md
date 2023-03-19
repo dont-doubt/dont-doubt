@@ -1,5 +1,5 @@
-<div style="width: 100%;">
-  <img src="title.svg" style="width: 100%;">
+<div style="width: 40%;">
+  <img src="title.svg" style="width: 40%;">
 </div>
 <!--- # Hi there 👋 - happy to see you on my page! -->
   
