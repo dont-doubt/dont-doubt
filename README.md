@@ -28,6 +28,7 @@
 - IntelliJ IDEA Plugin SDK
 - Grammar-Kit (JFlex)
 - Python
+- SQL
 
 
 ## 🤴 Socials:
