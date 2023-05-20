@@ -7,23 +7,23 @@
 <br>
 
 ## 🔨 Coding Portfolio (Programming Languages and Frameworks)
-### Developing by:
+### Developing in:
 - Java (Full Stack)
 - Kotlin *(Full Stack, maybe?)*
 - JavaScript
 - JavaFX
 - 🐗 So wild that Creating his own Scripting Language
 
-### Growing Amateur on:
+### Growing Amateur in:
 - HTML
 - CSS
 - C and C++
 - GLSL Shaders
 - OpenGL Render Library
+- Gradle
 
 ### Have a practice with:
 - Pascal
-- Gradle
 - Ant
 - IntelliJ IDEA Plugin SDK
 - Grammar-Kit (JFlex)
