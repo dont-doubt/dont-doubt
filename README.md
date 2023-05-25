@@ -22,7 +22,7 @@
 - OpenGL Render Library
 - Gradle
 
-### Have a practice with:
+### Had a practice with:
 - Pascal
 - Ant
 - IntelliJ IDEA Plugin SDK
