@@ -34,6 +34,6 @@
 ## 🤴 Socials:
 - Discord: `! rivta#4046`
 
-## 🗣 Speaking on:
+## 🗣 Languages:
 - Russian
 - English (rapidly learning pronouns and grammars)
