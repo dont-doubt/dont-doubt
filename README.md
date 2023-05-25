@@ -36,4 +36,4 @@
 
 ## 🗣 Languages:
 - Russian
-- English (rapidly learning pronouns and grammars)
+- English (studying)
