@@ -3,8 +3,10 @@
 </div>
 <!--- # Hi there 👋 - happy to see you on my page! -->
   
-### 🥺 I’m looking for **help** with **website designs** - if you're matched with this, DM me in **socials**. I would appreciate any help you'll provide for the website.
 <br>
+<!-- ### 🥺 I’m looking for **help** with **website designs** - if you're matched with this, DM me in **socials**. I would appreciate any help you'll provide for the website. -->
+
+### Bayoneta client v2 is coming
 
 ## 🔨 Coding Portfolio (Programming Languages and Frameworks)
 ### Developing in:
