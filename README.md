@@ -31,6 +31,7 @@
 - Grammar-Kit (JFlex)
 - Python
 - SQL
+- Batch script
 
 
 ## 🤴 Socials:
