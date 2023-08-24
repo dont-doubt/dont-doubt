@@ -35,7 +35,7 @@
 
 
 ## 🤴 Socials:
-- Discord: `! rivta#4046`
+<!-- - Discord: `rivta` -->
 
 ## 🗣 Languages:
 - Russian
