@@ -15,6 +15,7 @@
 - JavaScript
 - JavaFX
 - 🐗 So wild that Creating his own Scripting Language
+- Gradle
 
 ### Growing Amateur in:
 - HTML
@@ -22,16 +23,16 @@
 - C and C++
 - GLSL Shaders
 - OpenGL Render Library
-- Gradle
+- Python
+- Batch script
+- JVM reverse engineering
 
 ### Had a practice with:
 - Pascal
 - Ant
 - IntelliJ IDEA Plugin SDK
 - Grammar-Kit (JFlex)
-- Python
 - SQL
-- Batch script
 
 
 ## 🤴 Socials:
