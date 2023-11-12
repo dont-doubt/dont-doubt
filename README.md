@@ -2,7 +2,7 @@
   <img src="title.svg" style="width: 64%;">
 </div>
 
-## 🔨 Coding portfolio (Programming languages and Frameworks)
+# 🔨 Coding portfolio:
 ## Developing in:
 ###### Programming languages:
 - Java<br>
