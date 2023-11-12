@@ -1,42 +1,55 @@
-<div style="width: 60%;">
-  <img src="title.svg" style="width: 60%;">
+<div style="width: 64%;">
+  <img src="title.svg" style="width: 64%;">
 </div>
-<!--- # Hi there 👋 - happy to see you on my page! -->
-  
-<br>
-<!-- ### 🥺 I’m looking for **help** with **website designs** - if you're matched with this, DM me in **socials**. I would appreciate any help you'll provide for the website. -->
 
-### Bayoneta client v2 is coming
+## 🔨 Coding portfolio (Programming languages and Frameworks)
+## Developing in:
+###### Programming languages:
+- Java<br>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="7%"></img>
+- Kotlin<br>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" width="7%"></img>
+- JavaScript / TypeScript<br>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="7%"></img>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="7%"></img>
 
-## 🔨 Coding Portfolio (Programming Languages and Frameworks)
-### Developing in:
-- Java (Full Stack)
-- Kotlin *(Full Stack, maybe?)*
-- JavaScript
-- JavaFX
-- 🐗 So wild that Creating his own Scripting Language
-- Gradle
+###### Frameworks:
+- JavaFX<br>
+- Gradle<br>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gradle-Dark.svg" width="7%"></img>
 
-### Growing Amateur in:
-- HTML
-- CSS
-- C and C++
-- GLSL Shaders
-- OpenGL Render Library
-- Python
-- Batch script
-- JVM reverse engineering
+## Growing amateur in:
+###### Programming languages:
+- HTML<br>
+- CSS<br>
+- C and C++<br>
+- GLSL Shaders<br>
+- Python<br>
+- Batch script<br>
 
-### Had a practice with:
-- Pascal
-- Ant
-- IntelliJ IDEA Plugin SDK
-- Grammar-Kit (JFlex)
-- SQL
+###### Frameworks:
+- OpenGL Render Library<br>
+
+###### Others:
+- JVM reverse engineering<br>
+
+## Had a practice with:
+###### Programming languages:
+- Pascal<br>
+- SQL<br>
+- ANTLR4
+
+###### Frameworks:
+- Ant<br>
+- IntelliJ IDEA Plugin SDK<br>
+- Grammar-Kit (JFlex)<br>
+- Deno<br>
+- Bun<br>
+- React JS<br>
 
 
 ## 🤴 Socials:
-<!-- - Discord: `rivta` -->
+- Discord: `rivta`
 
 ## 🗣 Languages:
 - Russian
