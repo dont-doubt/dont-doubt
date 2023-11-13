@@ -6,68 +6,67 @@
 ## Developing in:
 ###### Programming languages:
 - Java<br>
-  <div style="border-radius: 50%">
-    <img src="assets/java.svg" width="47em" height="47em" alt="Java"></img>
-  </div>
+  <img src="assets/java.svg" width="47em" height="47em" alt="Java" />
 - Kotlin<br>
-  <img src="assets/kotlin.svg" width="47em" height="47em" style="border-radius: 25%; background-color: #490944;" alt="Kotlin"></img>
+  <img src="assets/kotlin.svg" width="47em" height="47em" alt="Kotlin" />
 - JavaScript / TypeScript<br>
-  <img src="assets/js.svg" width="47em" height="47em" style="border-radius: 25%; background-color: #242938;" alt="JavaScript"></img>
-  <img src="assets/ts.svg" width="47em" height="47em" style="border-radius: 25%; background-color: #242938;" alt="TypeScript"></img>
+  <img src="assets/js.svg" width="47em" height="47em" alt="JavaScript" />
+  <img src="assets/ts.svg" width="47em" height="47em" alt="TypeScript" />
 
 ###### Frameworks:
 - JavaFX<br>
-  <img src="assets/javafx.svg" width="47em" height="47em" style="border-radius: 25%; background-color: #771a94;" alt="JavaFX"></img>
+  <img src="assets/javafx.svg" width="47em" height="47em" alt="JavaFX" />
 - Gradle<br>
-  <img src="assets/gradle.svg" width="47em" height="47em" style="border-radius: 25%; background-color: #242938;" alt="Gradle"></img>
+  <img src="assets/gradle.svg" width="47em" height="47em" alt="Gradle" />
 
 ## Growing amateur in:
 ###### Programming languages:
 - Batch<br>
-  <img src="assets/batch.svg" width="47em" height="47em" style="border-radius: 25%; background-color: #153172; padding:1%; box-sizing: border-box;" alt="Batch"></img>
+  <img src="assets/batch.svg" width="47em" height="47em" alt="Batch" />
 - C / C++<br>
-  <img src="assets/c.svg" width="47em" height="47em" style="border-radius: 25%; background-color: #242938;" alt="C"></img>
-  <img src="assets/cpp.svg" width="47em" height="47em" style="border-radius: 25%; background-color: #242938;" alt="C++"></img>
+  <img src="assets/c.svg" width="47em" height="47em" alt="C" />
+  <img src="assets/cpp.svg" width="47em" height="47em" alt="C++" />
 - GLSL Shaders<br>
-  <img src="assets/opengl.svg" width="47em" height="47em" style="border-radius: 6vw; background-color: #015220; padding: 0.2%; box-sizing: border-box;" alt="GLSL"></img>
+  <img src="assets/glsl.svg" width="47em" height="47em" style="border-radius: 6vw; background-color: #015220; padding: 0.2%; box-sizing: border-box;" alt="GLSL" />
 - Python<br>
-  <img src="assets/python.svg" width="47em" height="47em" style="border-radius: 25%; background-color: #242938;" alt="Python"></img>
+  <img src="assets/python.svg" width="47em" height="47em" alt="Python" />
 - HTML<br>
-  <img src="assets/html.svg" width="47em" height="47em" style="border-radius: 25%; background-color: #242938;" alt="HTML"></img>
+  <img src="assets/html.svg" width="47em" height="47em" alt="HTML" />
 - CSS<br>
-  <img src="assets/css.svg" width="47em" height="47em" style="border-radius: 25%; background-color: #242938;" alt="CSS"></img>
+  <img src="assets/css.svg" width="47em" height="47em" alt="CSS" />
 
 ###### Frameworks:
 - OpenGL<br>
-  <img src="assets/opengl.svg" width="47em" height="47em" style="border-radius: 6vw; background-color: #631855; padding: 0.2%; box-sizing: border-box;" alt="GLSL"></img>
+  <img src="assets/opengl.svg" width="47em" height="47em" style="border-radius: 6vw; background-color: #631855; padding: 0.2%; box-sizing: border-box;" alt="GLSL" />
 
 ###### Other:
 - JVM reverse engineering<br>
-  <img src="assets/java.svg" width="47em" height="47em" style="border-radius: 25%; background-color: #530e1a;" alt="Java"></img>
+  <img src="assets/jvm.svg" width="47em" height="47em" alt="Java" />
 
 ## Had a practice with:
 ###### Programming languages:
 - ANTLR4<br>
-  <img src="assets/antlr4.svg" width="47em" height="47em" style="border-radius: 25%; background-color: #242938;" alt="ANTLR4"></img>
+  <img src="assets/antlr4.svg" width="47em" height="47em" alt="ANTLR4" />
 - SQL<br>
-  <img src="assets/sql.svg" width="47em" height="47em" style="width: 2.8em; border-radius: 25%; background-color: #262c2a; padding: 0.3%; box-sizing: border-box;" alt="SQL"></img>
+  <!-- <img src="assets/sql.svg" width="47em" height="47em" style="width: 2.8em; border-radius: 25%; background-color: #262c2a; padding: 0.3%; box-sizing: border-box;" alt="SQL" /> -->
+  <img src="assets/sql.svg" width="100%" height="100%" alt="SQL" />
 
 ###### Frameworks:
 - Ant<br>
-  <img src="assets/ant.svg" width="47em" height="47em" style="width: 2.8em; border-radius: 25%; background-color: #333834;" alt="Ant"></img>
+  <img src="assets/ant.svg" width="47em" height="47em" style="width: 2.8em; border-radius: 25%; background-color: #333834;" alt="Ant" />
 - Bun<br>
-  <img src="assets/bun.svg" width="47em" height="47em" style="width: 2.8em; border-radius: 25%; background-color: #8a2b6f;" alt="Bun"></img>
+  <img src="assets/bun.svg" width="47em" height="47em" style="width: 2.8em; border-radius: 25%; background-color: #8a2b6f;" alt="Bun" />
 - Deno<br>
-  <img src="assets/deno.svg" width="47em" height="47em" style="border-radius: 25%; background-color: #242938;" alt="Deno"></img>
+  <img src="assets/deno.svg" width="47em" height="47em" alt="Deno" />
 - React JS<br>
-  <img src="assets/react.svg" width="47em" height="47em" style="border-radius: 25%; background-color: #242938;" alt="React JS"></img>
+  <img src="assets/react.svg" width="47em" height="47em" alt="React JS" />
 - IntelliJ IDEA Plugins, Grammar-Kit / JFlex<br>
-  <img src="assets/intellij.svg" width="47em" height="47em" style="border-radius: 25%; background-color: #411737;" alt="IntelliJ IDEA Plugins"></img>
+  <img src="assets/intellij.svg" width="47em" height="47em" style="border-radius: 25%; background-color: #411737;" alt="IntelliJ IDEA Plugins" />
 
 
 ## 🤴 Socials:
 - Discord: `rivta`<br>
-  <!-- <img src="assets/discord.svg" width="47em" height="47em" style="border-radius: 25%; background-color: #242938;" alt="Discord"></img> -->
+  <!-- <img src="assets/discord.svg" width="47em" height="47em" style="border-radius: 25%; background-color: #242938;" alt="Discord" /> -->
 
 ## 🗣 Languages:
 - Russian
