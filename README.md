@@ -48,8 +48,7 @@
 - ANTLR4<br>
   <img src="assets/antlr4.svg" width="47em" height="47em" alt="ANTLR4" />
 - SQL<br>
-  <!-- <img src="assets/sql.svg" width="47em" height="47em" style="width: 2.8em; border-radius: 25%; background-color: #262c2a; padding: 0.3%; box-sizing: border-box;" alt="SQL" /> -->
-  <img src="assets/sql.svg" width="100%" height="100%" alt="SQL" />
+  <img src="assets/sql.svg" width="47em" height="47em" style="width: 2.8em; border-radius: 25%; background-color: #262c2a; padding: 0.3%; box-sizing: border-box;" alt="SQL" />
 
 ###### Frameworks:
 - Ant<br>
@@ -61,7 +60,7 @@
 - React JS<br>
   <img src="assets/react.svg" width="47em" height="47em" alt="React JS" />
 - IntelliJ IDEA Plugins, Grammar-Kit / JFlex<br>
-  <img src="assets/intellij.svg" width="47em" height="47em" style="border-radius: 25%; background-color: #411737;" alt="IntelliJ IDEA Plugins" />
+  <img src="assets/intellij.svg" width="47em" height="47em" alt="IntelliJ IDEA Plugins" />
 
 
 ## 🤴 Socials:
