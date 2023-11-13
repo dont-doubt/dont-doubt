@@ -6,7 +6,9 @@
 ## Developing in:
 ###### Programming languages:
 - Java<br>
-  <img src="assets/java.svg" width="47em" height="47em" style="border-radius: 25%; background-color: #615513;" alt="Java"></img>
+  <div style="border-radius: 50%">
+    <img src="assets/java.svg" width="47em" height="47em" alt="Java"></img>
+  </div>
 - Kotlin<br>
   <img src="assets/kotlin.svg" width="47em" height="47em" style="border-radius: 25%; background-color: #490944;" alt="Kotlin"></img>
 - JavaScript / TypeScript<br>
