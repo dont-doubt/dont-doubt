@@ -51,8 +51,8 @@
 ###### Frameworks and other stuff:
 - Ant<br>
   <img src="assets/ant.svg" width="47em" height="47em" style="width: 2.8em; border-radius: 25%; background-color: #333834;" alt="Ant" />
-- Bun<br>
-  <img src="assets/bun.svg" width="47em" height="47em" style="width: 2.8em; border-radius: 25%; background-color: #8a2b6f;" alt="Bun" />
+<!-- - Bun<br>
+  <img src="assets/bun.svg" width="47em" height="47em" style="width: 2.8em; border-radius: 25%; background-color: #8a2b6f;" alt="Bun" /> -->
 - Deno<br>
   <img src="assets/deno.svg" width="47em" height="47em" alt="Deno" />
 - Next JS<br>
