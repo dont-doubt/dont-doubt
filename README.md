@@ -13,7 +13,7 @@
   <img src="assets/js.svg" width="47em" height="47em" alt="JavaScript" />
   <img src="assets/ts.svg" width="47em" height="47em" alt="TypeScript" />
 
-###### Frameworks:
+###### Frameworks and other stuff:
 - JavaFX<br>
   <img src="assets/javafx.svg" width="47em" height="47em" alt="JavaFX" />
 - Gradle<br>
@@ -35,11 +35,9 @@
 - CSS<br>
   <img src="assets/css.svg" width="47em" height="47em" alt="CSS" />
 
-###### Frameworks:
+###### Frameworks and other stuff:
 - OpenGL<br>
   <img src="assets/opengl.svg" width="47em" height="47em" style="border-radius: 6vw; background-color: #631855; padding: 0.2%; box-sizing: border-box;" alt="GLSL" />
-
-###### Other:
 - JVM reverse engineering<br>
   <img src="assets/jvm.svg" width="47em" height="47em" alt="Java" />
 
@@ -50,7 +48,7 @@
 - SQL<br>
   <img src="assets/sql.svg" width="47em" height="47em" style="width: 2.8em; border-radius: 25%; background-color: #262c2a; padding: 0.3%; box-sizing: border-box;" alt="SQL" />
 
-###### Frameworks:
+###### Frameworks and other stuff:
 - Ant<br>
   <img src="assets/ant.svg" width="47em" height="47em" style="width: 2.8em; border-radius: 25%; background-color: #333834;" alt="Ant" />
 - Bun<br>
