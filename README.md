@@ -55,6 +55,8 @@
   <img src="assets/bun.svg" width="47em" height="47em" style="width: 2.8em; border-radius: 25%; background-color: #8a2b6f;" alt="Bun" />
 - Deno<br>
   <img src="assets/deno.svg" width="47em" height="47em" alt="Deno" />
+- Next JS<br>
+  <img src="assets/react.svg" width="47em" height="47em" alt="React JS" />
 - React JS<br>
   <img src="assets/react.svg" width="47em" height="47em" alt="React JS" />
 - IntelliJ IDEA Plugins, Grammar-Kit / JFlex<br>
