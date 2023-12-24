@@ -32,7 +32,7 @@
   <!--<img src="assets/python.svg" width="47em" height="47em" alt="Python" />-->
 - HTML<br>
   <!--<img src="assets/html.svg" width="47em" height="47em" alt="HTML" />-->
-- CSS<br>
+- CSS / SCSS<br>
   <!--<img src="assets/css.svg" width="47em" height="47em" alt="CSS" />-->
 
 ###### Frameworks and other stuff:
@@ -40,6 +40,10 @@
   <!--<img src="assets/opengl.svg" width="47em" height="47em" style="border-radius: 6vw; background-color: #631855; padding: 0.2%; box-sizing: border-box;" alt="GLSL" />-->
 - JVM reverse engineering<br>
   <!--<img src="assets/jvm.svg" width="47em" height="47em" alt="Java" />-->
+- Next JS<br>
+  <!--<img src="assets/react.svg" width="47em" height="47em" alt="React JS" />-->
+- React JS<br>
+  <!--<img src="assets/react.svg" width="47em" height="47em" alt="React JS" />-->
 
 ## Had a practice with:
 ###### Programming languages:
@@ -56,10 +60,6 @@
   <!--<img src="assets/ant.svg" width="47em" height="47em" style="width: 2.8em; border-radius: 25%; background-color: #333834;" alt="Ant" />-->
 - Deno<br>
   <!--<img src="assets/deno.svg" width="47em" height="47em" alt="Deno" />-->
-- Next JS<br>
-  <!--<img src="assets/react.svg" width="47em" height="47em" alt="React JS" />-->
-- React JS<br>
-  <!--<img src="assets/react.svg" width="47em" height="47em" alt="React JS" />-->
 - IntelliJ IDEA Plugins, Grammar-Kit / JFlex<br>
   <!--<img src="assets/intellij.svg" width="47em" height="47em" alt="IntelliJ IDEA Plugins" />-->
 
