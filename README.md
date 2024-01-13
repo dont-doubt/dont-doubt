@@ -44,6 +44,8 @@
   <!--<img src="assets/react.svg" width="47em" height="47em" alt="React JS" />-->
 - React JS<br>
   <!--<img src="assets/react.svg" width="47em" height="47em" alt="React JS" />-->
+- Tailwind CSS<br>
+  <!--<img src="assets/css.svg" width="47em" height="47em" alt="CSS" />-->
 
 ## Had a practice with:
 ###### Programming languages:
@@ -51,11 +53,10 @@
   <!--<img src="assets/antlr4.svg" width="47em" height="47em" alt="ANTLR4" />
 - SQL<br>
   <!--<img src="assets/sql.svg" width="47em" height="47em" style="width: 2.8em; border-radius: 25%; background-color: #262c2a; padding: 0.3%; box-sizing: border-box;" alt="SQL" />-->
+- C#<br>
+  <!--<img src="assets/css.svg" width="47em" height="47em" alt="CSS" />-->
 
 ###### Frameworks and other stuff:
-<!-- - Bun<br>
-  <img src="assets/bun.svg" width="47em" height="47em" style="width: 2.8em; border-radius: 25%; background-color: #8a2b6f;" alt="Bun" /> -->
-
 - Ant<br>
   <!--<img src="assets/ant.svg" width="47em" height="47em" style="width: 2.8em; border-radius: 25%; background-color: #333834;" alt="Ant" />-->
 - Deno<br>
