@@ -5,7 +5,7 @@
 # 🔨 My coding portfolio:
 ## Developing in:
 ###### Programming languages and other languages:
-- Java<br>
+- Java (My general language)<br>
   <!--<img src="assets/java.svg" width="47em" height="47em" alt="Java" />-->
 - Kotlin<br>
   <!--<img src="assets/kotlin.svg" width="47em" height="47em" alt="Kotlin" />-->
@@ -22,10 +22,13 @@
   <!--<img src="assets/javafx.svg" width="47em" height="47em" alt="JavaFX" />-->
 - Gradle<br>
   <!--<img src="assets/gradle.svg" width="47em" height="47em" alt="Gradle" />-->
-- React JS<br>
+- React<br>
   <!--<img src="assets/react.svg" width="47em" height="47em" alt="React JS" />-->
 - Tailwind CSS<br>
   <!--<img src="assets/css.svg" width="47em" height="47em" alt="CSS" />-->
+- NextJS<br>
+  <!--<img src="assets/react.svg" width="47em" height="47em" alt="React JS" />-->
+
 
 ## Growing amateur in:
 ###### Programming languages and other languages:
@@ -45,8 +48,6 @@
 ###### Frameworks and tools:
 - OpenGL<br>
   <!--<img src="assets/opengl.svg" width="47em" height="47em" style="border-radius: 6vw; background-color: #631855; padding: 0.2%; box-sizing: border-box;" alt="GLSL" />-->
-- Next JS<br>
-  <!--<img src="assets/react.svg" width="47em" height="47em" alt="React JS" />-->
 
 ## Had a practice with:
 ###### Programming languages and other languages:
