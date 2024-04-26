@@ -44,6 +44,7 @@
             var(--color-primary),
             var(--color-secondary),
             var(--color-triary)
+            var(--color-main),
           );
           border-radius: 30px;
           background-size: 400% 400%;
