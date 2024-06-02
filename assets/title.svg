@@ -14,41 +14,47 @@
         }
         @keyframes gradient {
           0% {
-            background-position: 0% 0%;
+            background-position: 2% 0%;
           }
-          42% {
-            background-position: 100% 100%;
+          50% {
+              background-position: 99% 100%;
           }
           100% {
-            background-position: -6200% 50%;
+              background-position: 2% 0%;
           }
         }
         .container {
-          --color-main: #fd791b88;
-          --color-primary: #ffd16688;
-          --color-secondary: #06d6a088;
-          --color-triary: #fd791b88;
+          --color-1: #00006988;
+          --color-2: #82034188;
+          --color-3: #721d1488;
+          --color-4: #07777188;
+          --color-5: #4d105f88;
+          --color-6: #48096188;
         }
         @media (prefers-color-scheme: light) {
           .container {
-            --color-main: #fd791b88;
-            --color-primary: #b3276188;
-            --color-secondary: #fd791b88;
-            --color-triary: #def0ff88;
+            --color-1: #00006988;
+            --color-2: #82034188;
+            --color-3: #721d1488;
+            --color-4: #07777188;
+            --color-5: #4d105f88;
+            --color-6: #48096188;
           }
         }
         .container {
           background: linear-gradient(
-            -45deg,
-            var(--color-main),
-            var(--color-primary),
-            var(--color-secondary),
-            var(--color-triary),
-            var(--color-main)
+            312deg,
+            var(--color-1),
+            var(--color-2),
+            var(--color-3),
+            var(--color-4),
+            var(--color-5),
+            var(--color-6)
           );
           border-radius: 30px;
           background-size: 400% 400%;
-          animation: gradient 12s cubic-bezier(.1,.5,.34,.91) infinite;
+          background-repeat: no-repeat;
+          animation: gradient 60s cubic-bezier(.1,.5,.34,.91) infinite;
           width: 100%;
           height: 130px;
           display: flex;
@@ -57,7 +63,6 @@
           color: white;
           font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
           text-align: center;
-          display: block;
         }
         .hi {
           animation: hi 1.5s linear -0.5s infinite;
