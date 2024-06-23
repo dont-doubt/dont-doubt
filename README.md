@@ -37,5 +37,4 @@ I'm developing using these languages and tools:
 - C#
 - ASM
 - Ant
-- Deno
 - IntelliJ IDEA Plugins, Grammar-Kit / JFlex
