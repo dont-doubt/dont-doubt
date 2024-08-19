@@ -4,8 +4,8 @@
 
 # Hello!
 Hello! Nice to see you on my GitHub page!<br>
-I'm a programmer and I can work on both backend and frontend sides, as well as working on desktop applications<br>
-I can speak Russian and English<br>
+I can work on both backend and frontend sides, as well as working on desktop applications<br>
+I speak English and Russian<br>
 
 # Languages and tools
 I'm developing using these languages and tools: 
