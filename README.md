@@ -11,7 +11,7 @@ I speak English and Russian<br>
 I'm developing using these languages and tools: 
 (grading by my expirience and knowledge)
 
-#### Very good:
+#### Good:
 - Java (My general language)
 - Kotlin
 - JavaScript / TypeScript
