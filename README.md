@@ -30,7 +30,7 @@ Web Development:
 - Nuxt
 - Vite
 
-#### Intermediate experience:
+### Intermediate experience:
 - C++
 - C#
 - Rust
@@ -38,6 +38,6 @@ Web Development:
 - Python
 - Batch scripting
 
-#### Sufficient:
+### Sufficient:
 - ANTLR4
 - Assembly
