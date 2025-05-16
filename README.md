@@ -3,38 +3,41 @@
 </div>
 
 # Hello!
-Hello! Nice to see you on my GitHub page!<br>
-I can work on both backend and frontend sides, as well as working on desktop applications<br>
-I speak English and Russian<br>
+Welcome to my GitHub page — glad you're here!
 
-# Languages and tools
-I'm developing using these languages and tools: 
-(grading by my expirience and knowledge)
+I'm a full-stack developer with a strong background in both backend and frontend development, as well as experience in building desktop applications and automating browser tasks.
 
-#### Good:
-- Java (My general language)
+While the majority of my development experience lies within the Java ecosystem, I'm also proficient in modern web technologies and tools.
+
+# 🛠️ Languages and tools
+Here’s a breakdown of the technologies I use, graded by my experience level:
+
+### Strong experience:
+Java Ecosystem:
+- Java (Primary language)
 - Kotlin
-- JavaScript / TypeScript
-- HTML
-- CSS / SCSS
-- JavaFX
 - Gradle
-- React
-- Tailwind CSS
-- NextJS
-
-#### Ok:
-- C++
-- GLSL Shaders
-- Python
+- JavaFX
 - JVM bytecode
-- Batch
-- OpenGL
+- Playwright (for browser automation)
+
+Web Development:
+- TypeScript
+- React
+- TailwindCSS
+- Vue
+- NextJS
+- Nuxt
+- Vite
+
+#### Intermediate experience:
+- C++
+- C#
+- Rust
+- OpenGL, GLSL
+- Python
+- Batch scripting
 
 #### Sufficient:
 - ANTLR4
-- SQL
-- C#
-- ASM
-- Ant
-- IntelliJ IDEA Plugins, Grammar-Kit / JFlex
+- Assembly
