@@ -38,6 +38,6 @@ Web Development:
 - Python
 - Batch scripting
 
-### Sufficient:
+### Sufficient experience:
 - ANTLR4
 - Assembly
