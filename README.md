@@ -19,7 +19,6 @@ Java Ecosystem:
 - Gradle
 - JavaFX
 - JVM bytecode
-- Playwright (for browser automation)
 
 Web Development:
 - TypeScript
@@ -29,6 +28,7 @@ Web Development:
 - NextJS
 - Nuxt
 - Vite
+- Playwright (for browser automation)
 
 ### Intermediate experience:
 - C++
